@@ -2,7 +2,7 @@ In today's competitive market, companies often run A/B tests to optimize their m
 
 This dataset is designed to help marketing teams answer two critical questions:
 
-Will the campaign succeed?
+**Will the campaign succeed?**
 
 If successful, how much of the success can be directly attributed to the ads?
 
