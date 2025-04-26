@@ -10,18 +10,18 @@ To explore these questions, most users are exposed to actual ads (the experiment
 
 The objective of analyzing this dataset is to compare the experimental and control groups, assess the ads' effectiveness, calculate potential revenue impact, and determine if the results are statistically significant.
 
-Dataset Details:
+**Dataset Details:**
 
-Index: Row number
+**Index:** Row number
 
-User ID: Unique identifier for each user
+**User ID:** Unique identifier for each user
 
-Test Group: Indicates if the user saw an ad ("ad") or a PSA ("psa")
+**Test Group:** Indicates if the user saw an ad ("ad") or a PSA ("psa")
 
-Converted: Whether the user made a purchase (True/False)
+**Converted:** Whether the user made a purchase (True/False)
 
-Total Ads: Number of ads seen by the user
+**Total Ads:** Number of ads seen by the user
 
-Most Ads Day: Day when the user saw the highest number of ads
+**Most Ads Day:** Day when the user saw the highest number of ads
 
-Most Ads Hour: Hour when the user saw the highest number of ads
+**Most Ads Hour:** Hour when the user saw the highest number of ads
